@@ -1,2 +1,0 @@
-# Transmax
-Transmax Assignment
